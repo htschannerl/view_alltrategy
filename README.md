@@ -1,8 +1,8 @@
 # Views ERP Sapiens with Oracle
 
-The objetive was create one View to import the values from ERP system to the budget system.
+The objective was to create one View to import the values from ERP system to the budget system.
 
-## Chalange
+## Challenge
 
 Create one view with the main information from the accounting and the source of the registry, which can be Invoice, Stock, Financial or any module of the ERP system.
 
